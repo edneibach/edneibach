@@ -2,7 +2,7 @@
 
 😄 Pronouns: He/Him
 
-🔭 I’m currently working at Zyte, as a Technical Solutions Engineer]
+🔭 I’m currently working at Zyte, as a Technical Solutions Engineer
 
 🌱 I’m currently learning more about Google Cloud Platform/Airflow
 

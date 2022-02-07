@@ -2,11 +2,15 @@
 
 😄 Pronouns: He/Him
 
-🔭 I’m currently working at Zyte, as a Technical Solutions Engineer
+🔭 I’m currently working at Zyte, as a Technical Solutions Engineer]
 
 🌱 I’m currently learning more about Google Cloud Platform/Airflow
 
 💬 Ask me about everything data!
+
+👯 I’m looking to collaborate on Data Engineering projects - Email Me!
+
+📫 How to reach me: bloemerbach@gmail.com
 
 ⚡ Fun fact: I love gaming in my free time! (been playing lots of Valheim lately)
 
@@ -15,7 +19,5 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 -->

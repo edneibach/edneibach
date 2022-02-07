@@ -1,9 +1,13 @@
 ### Hi there! :) 👋
 
 🔭 I’m currently working at Zyte, as a Technical Solutions Engineer
+
 🌱 I’m currently learning Google Cloud Platform/Airflow
+
 💬 Ask me about everything that is data-related!
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love gaming in my free time! (Valheim lately)
 
 <!--

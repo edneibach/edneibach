@@ -12,8 +12,6 @@
 
 📫 How to reach me: bloemerbach@gmail.com
 
-⚡ Fun fact: I love gaming in my free time! (been playing lots of Valheim lately)
-
 <!--
 **edneibach/edneibach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
